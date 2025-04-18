@@ -81,3 +81,33 @@ A trained model capable of predicting disease outcomes with good accuracy, suppo
 - Research papers on genetic risk prediction
 - Clinical datasets from public sources (e.g., UCI, Kaggle)
 - Machine Learning in Healthcare articles
+
+
+OUTPUT:
+
+
+✅ Data loaded successfully. Shape: (569, 33)
+✅ Cleaned Data Shape: (569, 31)
+
+✅ Accuracy: 0.9649122807017544
+               
+
+           0       0.96      0.99      0.97        71
+           1       0.98      0.93      0.95        43
+
+    accuracy                           0.96       114
+   macro avg       0.97      0.96      0.96       114
+weighted avg       0.97      0.96      0.96       114
+
+
+
+
+📊 Classification Report:
+               precision    recall  f1-score   support
+
+           0       0.96      0.99      0.97        71
+           1       0.98      0.93      0.95        43
+
+    accuracy                           0.96       114
+   macro avg       0.97      0.96      0.96       114
+weighted avg       0.97      0.96      0.96       114
